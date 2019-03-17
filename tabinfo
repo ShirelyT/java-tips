@@ -1,0 +1,4 @@
+how to change tab to 3 space:
+First: Preferences-->Java-->Code Style-->Formatter
+Second : click new Formatter, then click Edit, in General Settings page, choose Tab policy, click Space only.
+        find the Indentation size and Tab size set your own
